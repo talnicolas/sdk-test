@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "sessionId": "session1",
+        "type": "game.start",
+        "sentAt": 1709561720
+        
+    },
+    {
+        "id": 2,
+        "sessionId": "session2",
+        "type": "game.start",
+        "sentAt": 1709561940
+        
+    }
+]
